@@ -1,16 +1,16 @@
-## Hi there 👋
+**BEM VINDO AO MEU PERFIL** 🌻
 
-<!--
-**MARI336-U/MARI336-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Maria Eduarda, mas meu apélido é formiga.
 
-Here are some ideas to get you started:
+estou estudando na [Alura](https//:www.alura.com.br).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou aprendendo a utilizar o Github, com a profª Barbara🦋
+
+Utilizarei esse espaço para meus compartilhamentos🦋
+
+![](https://media1.tenor.com/m/tqJgr4JiP_8AAAAd/cute-jimin-cute-bts.gif)  ![](https://media1.tenor.com/m/C_YenjB3niUAAAAC/tinkerbell-happy.gif)
+
+
+
+
+
