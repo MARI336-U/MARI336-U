@@ -2,7 +2,7 @@
 
 meu nome é Maria Eduarda, mas meu apélido é formiga.
 
-estou estudando na [Alura](https//www.alura.com.br).
+estou estudando na [Alura](https://alura.com.br).
 
 Estou aprendendo a utilizar o Github, com a profª Barbara🦋
 
